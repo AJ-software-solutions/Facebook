@@ -1,3 +1,8 @@
-Ajay is goodu boy apudinu swathi sona 
+<<<<<<< HEAD
+Ajay is goodu boy apudinu kavitha sonan 
 .
+=======
+Ajay is goodu boy apudinu kavitha sonan 
+
+>>>>>>> production
 
